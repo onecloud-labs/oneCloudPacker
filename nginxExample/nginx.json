@@ -2,8 +2,8 @@
     "builders": [
         {
             "type": "amazon-ebs",
-            "access_key": "AKIA3BYOZGLRBERLL6AK",
-            "secret_key": "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",
+            "access_key": "AKIA3BGL",
+            "secret_key": "WkJfZsCCEq8/g3UY",
             "region": "us-east-1",
             "ami_name": "oneCloud-nginx",
             "source_ami": "ami-09e67e426f25ce0d7",
